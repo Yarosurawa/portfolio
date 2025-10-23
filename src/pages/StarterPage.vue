@@ -4,7 +4,7 @@
 
 <template>
     <div>
-        <h1 class="my-name">Yaroslav Hnatiuk</h1>
+        <h1 class="my-name">Yaro</h1>
     </div>
 </template>
 
